@@ -1,4 +1,4 @@
-# Search your job in your way
+# If opportunity doesn't knock, build a door.
 
 ## Description:
 This script will scrap post of a particular hashtag on LinkedIn and then look for specific keywords in that and create a csv for that.
